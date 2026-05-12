@@ -97,6 +97,4 @@ projeto-n8n-1/
 
 > Projeto desenvolvido para portfólio de automação com IA.
 
-**José** — [LinkedIn](https://linkedin.com/in/SEU-LINKEDIN) · [GitHub](https://github.com/jvrb31)
-
 > Projeto desenvolvido para portfólio de automação com IA.
